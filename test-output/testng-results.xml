@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-05T14:54:59 IST" name="Default suite" finished-at="2024-10-05T14:55:09 IST" duration-ms="9434">
+    <groups>
+    </groups>
+    <test started-at="2024-10-05T14:54:59 IST" name="Default test" finished-at="2024-10-05T14:55:09 IST" duration-ms="9434">
+      <class name="dataProvider.data_provider1">
+        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.data_provider1@7133da86]" started-at="2024-10-05T14:54:59 IST" name="test1" data-provider="createData1" finished-at="2024-10-05T14:55:02 IST" duration-ms="3326" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Naveen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[data1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.data_provider1@7133da86]" started-at="2024-10-05T14:55:02 IST" name="test1" data-provider="createData1" finished-at="2024-10-05T14:55:05 IST" duration-ms="2960" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Joker]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[data2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.data_provider1@7133da86]" started-at="2024-10-05T14:55:05 IST" name="test1" data-provider="createData1" finished-at="2024-10-05T14:55:09 IST" duration-ms="3096" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[King]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[data3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- dataProvider.data_provider1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
